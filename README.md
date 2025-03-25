@@ -12,5 +12,5 @@ A TensorFlow deep learning project that classifies user comments for toxicity. T
    git clone https://github.com/yourusername/toxicity-terminator.git
    cd toxicity-terminator
 
-pip install tensorflow tensorflow-gpu pandas matplotlib scikit-learn gradio jinja2
+   pip install tensorflow tensorflow-gpu pandas matplotlib scikit-learn gradio jinja2
 
