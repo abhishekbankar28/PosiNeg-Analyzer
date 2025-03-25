@@ -14,3 +14,7 @@ A TensorFlow deep learning project that classifies user comments for toxicity. T
 
    pip install tensorflow tensorflow-gpu pandas matplotlib scikit-learn gradio jinja2
 
+2. **Output of model :**
+   ![Model's output on negative Comment](images/Output.PNG)
+
+   ![Model's output on positive Comment](images/output2.PNG)
