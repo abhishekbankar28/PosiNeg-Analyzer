@@ -16,5 +16,5 @@ A TensorFlow deep learning project that classifies user comments for toxicity. T
 
 2. **Output of model :**
   <img src="images/Output.PNG" alt="Output Image" width="300"/>
-   <img src="images/output2.PNG" alt="Output2 Image" width="300"/>
+   <img src="images/output2.PNG" alt="Output 2 Image" width="300"/>
 
