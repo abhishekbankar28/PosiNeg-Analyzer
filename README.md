@@ -9,12 +9,12 @@ A TensorFlow deep learning project that classifies user comments for toxicity. T
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/toxicity-terminator.git
-   cd toxicity-terminator
-
+   git clone https://github.com/yourusername/posineg-analyzer.git
+   cd posineg-analyzer
    pip install tensorflow tensorflow-gpu pandas matplotlib scikit-learn gradio jinja2
 
+
 2. **Output of model :**
-  <img src="images/Output.PNG" alt="Output Image" width="300"/>
+     <img src="images/Output.PNG" alt="Output Image" width="300"/>
    <img src="images/output 2.PNG" alt="Output2 Image" width="300"/>
 
