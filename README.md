@@ -1,4 +1,4 @@
-# Toxicity Terminator
+# PosiNeg Analyzer
 
 A TensorFlow deep learning project that classifies user comments for toxicity. This project preprocesses text using advanced tokenization, trains a bidirectional LSTM model for multi-label toxicity prediction, and features an interactive Gradio interface to test and flag comments as positive (non-toxic) or negative (toxic).
 
